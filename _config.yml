@@ -1,15 +1,20 @@
-# Example Site settings
-
-#google_analytics: UA-NNNNNNNN-N
+title: "Mini-Pingu"
+lang: "en"
+description: "Playground of Mine"
+baseurl: "/"
+url: "https://mini-pingu.github.io"
 
 header_pages:
-  - index.md
-  - about.md
+  - pages/index.md
+  - pages/categories.md
+  - pages/archive.md
+  - pages/about.md
 
-# footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+style: hacker
 
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+footer: '<a href="https://twitter.com/SokaOrochi">Soka Orochi</a>'
+
+listen_for_clients_preferred_style: false
 
 plugins:
   - jekyll-seo-tag
