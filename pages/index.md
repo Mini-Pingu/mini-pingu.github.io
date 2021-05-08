@@ -4,4 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Ready for starting
+I am just a tech.
+
+[May - 2021] => **_Javascript_** Frontend Developer w/ **_React_**

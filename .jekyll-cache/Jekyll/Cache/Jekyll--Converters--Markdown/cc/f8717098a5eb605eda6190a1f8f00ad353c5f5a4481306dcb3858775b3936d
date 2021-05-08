@@ -1,0 +1,36 @@
+I"<h1 id="categories">Categories</h1>
+
+<!-- <p>Posts in category "basic" are:</p>
+
+<ul>
+  
+</ul> -->
+
+<ul>
+
+  <li><a name="Norway">Norway</a>
+    <ul>
+    
+      <li><a href="/2021-05/exiting">Planning</a></li>
+    
+    </ul>
+  </li>
+
+  <li><a name="Computer Science">Computer Science</a>
+    <ul>
+    
+      <li><a href="/2021-05/exiting">Planning</a></li>
+    
+    </ul>
+  </li>
+
+  <li><a name="Health">Health</a>
+    <ul>
+    
+      <li><a href="/2021-05/exiting">Planning</a></li>
+    
+    </ul>
+  </li>
+
+</ul>
+:ET
