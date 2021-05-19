@@ -1,0 +1,12 @@
+I"L<p>Given the request for developing a simple backend server, I spend an afternoon on researching the serious of <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs">Express.js</a>. Here is notes for what I have studied.</p>
+
+<p>Express reminds me Flask, anything is plug in and plug out anytime. Do not worried about there are any fixed methods forced you to use. There are a few prospectives I should be careful about:</p>
+
+<ol>
+  <li>HTTP verb</li>
+  <li>URL pattern</li>
+  <li>Template view</li>
+  <li>middleware</li>
+  <li>database mechanism</li>
+</ol>
+:ET
