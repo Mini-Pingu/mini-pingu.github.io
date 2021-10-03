@@ -1,9 +1,22 @@
 ---
-title: /
+title: /homepage
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+<center><strong>Mini-Pingu's Playground</strong></center>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br />
+
+Hi, this is Mini-Pingu speaking.
+
+Dedicating to be a Javascript full stack engineer.
+
+I will share some interesting infomation I build or find, including:
+
+1. projects I am working on,
+2. latest fascinating technology I discover,
+3. anything happened in my daily original life,
+4. etc. <br/><br/>
+
+<center><strong>I love computer, only.</strong></center>
