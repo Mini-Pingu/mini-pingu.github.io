@@ -1,16 +1,10 @@
----
-title: writing note 1
-layout: post
-tags: ["language", "personal"]
-categories: ["ielts"]
----
-
-<center><p><strong>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</strong></p></center>
+I"E<center><p>writing note 1
+&lt;/center&gt;
 
 Hi, there. I have spent around two days In researching and conducting the strategy of writing and speaking sections in IELTS. As for writing section, mostly I read the textbook borrowed from my colleague who took the exam a few years ago. Suggestions from that textbook are impressively clear and practical. I will summarize in the rest of this post.
 
 <p align="center">
-  <img src="/assets/img/textbook.jpg" alt="textbook image" width="40%">
+  <img src="/assets/img/textbook.jpg" alt="textbook image" width="50%" />
   Textbook Image
 </p>
 
@@ -52,4 +46,6 @@ The last but not least, conclusion is mostly recapitulating your main sentence, 
 <hr />
 <h1></h1>
 
-What I am talking above is targeting on task 2 only, the dificulty of task 1 is far easier than task 2. It is okay to copy this method in task 1. Of course, I will update what I learn before I take the excam in December. Keeping logging what I learn in English is also benifical for me. hahaha. :)
+What I am talking above is targeting on task 2 only, the dificulty of task 1 is far easier than task 2. It is okay to copy this method in task 1. Of course, I will update what I learn before I take the excam in December. :)
+</p></center>
+:ET
