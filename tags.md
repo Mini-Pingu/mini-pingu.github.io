@@ -11,12 +11,12 @@ tags
 {% for tag in site.tags %}
 
 <div>
-  <strong>{{ tag[0] }}</strong>
+  <strong>{{ tag[0] }}</strong><br/>
   {% for post in tag[1] %}
   {%- assign date_format = "%Y-%m-%d" -%}
-  <p>- [ {{ post.date | date: date_format }} ] <a href="{{ post.url }}">{{ post.title }}</a> </p>
+  - [ {{ post.date | date: date_format }} ] <a href="{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
 
-</div>
+</div><br/>
 {% endfor %}
 </fieldset>
