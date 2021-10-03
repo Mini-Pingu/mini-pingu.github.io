@@ -1,4 +1,4 @@
-google_analytics: UA-NNNNNNNN-N
+# google_analytics: UA-NNNNNNNN-N
 
 header_pages:
   - index.md
