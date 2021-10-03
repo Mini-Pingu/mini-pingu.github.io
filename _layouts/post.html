@@ -2,4 +2,16 @@
 layout: default
 ---
 
+<center><p><strong>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</strong></p></center>
+
+{%- if page.categories.size > 0 -%}
+  <center><strong>{{ page.categories | join: ", " }}</strong></center>
+{%- endif -%}
+
+{%- if page.tags.size > 0 -%}
+  <center><strong>{{ page.tags | join: ", " }}</strong></center>
+{%- endif -%}
+
+<br />
+
 {{ content }}

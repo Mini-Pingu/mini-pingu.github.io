@@ -5,8 +5,6 @@ tags: ["language", "personal"]
 categories: ["ielts"]
 ---
 
-<center><p><strong>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</strong></p></center>
-
 Hi, there. I have spent around two days In researching and conducting the strategy of writing and speaking sections in IELTS. As for writing section, mostly I read the textbook borrowed from my colleague who took the exam a few years ago. Suggestions from that textbook are impressively clear and practical. I will summarize in the rest of this post.
 
 <p align="center">
