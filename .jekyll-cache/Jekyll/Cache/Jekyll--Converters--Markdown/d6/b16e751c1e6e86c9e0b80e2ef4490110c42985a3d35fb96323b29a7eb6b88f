@@ -1,4 +1,5 @@
-I"‚<center><strong>Mini-Pingu (aka Chris Chan)</strong></center>
+I"¹<center><strong>Mini-Pingu</strong></center>
+<center><strong>Mini-Pingu (aka Chris Chan)</strong></center>
 <center>Junior Full Stack MERN Developer in Macau, China</center>
 <hr />
 
@@ -33,10 +34,13 @@
 
 <center><strong>CONTACT ME</strong></center>
 
-<p><a href="https://www.twitter.com//_mini_pingu_" title="_mini_pingu_" target="_blank">Twitter</a></p>
+<center><div>
 
-<p><a href="https://github.com//Mini-Pingu" title="Mini-Pingu" target="_blank">GitHub</a></p>
+<a href="https://www.twitter.com//_mini_pingu_" title="_mini_pingu_" target="_blank">Twitter</a>
 
-<p><a href="https://t.me//MiniPingu" title="MiniPingu" target="_blank">Telegram</a></p>
+<a href="https://github.com//Mini-Pingu" title="Mini-Pingu" target="_blank">GitHub</a>
 
+<a href="https://t.me//MiniPingu" title="MiniPingu" target="_blank">Telegram</a>
+
+</div></center>
 :ET

@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 
-<center><strong>Mini-Pingu (aka Chris Chan)</strong></center>
+<center><strong>Mini-Pingu</strong></center>
 <center>Junior Full Stack MERN Developer in Macau, China</center>
 <hr />
 
