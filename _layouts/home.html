@@ -17,3 +17,20 @@ layout: default
     {%- endfor -%}
   </ul>
 {%- endif -%}
+
+<br />
+
+<center>>> to do list <<</center>
+<hr/>
+{% for item in site.data.toDoList %}
+  <fieldset>
+    <legend>
+      <a href={{item.github_link}} target="_blank">{{ item.title }}</a>
+    </legend>
+    - pri: {{ item.priority }}<br />
+    - desc: {{ item.desc }}<br />
+    - eta: {{ item.eta }}<br />
+    - status: {{ item.status }}<br />
+  </fieldset>
+  <br />
+{% endfor %}

@@ -10,7 +10,7 @@ permalink: /
 
 Hi, this is Mini-Pingu speaking.
 
-Dedicating to be a Javascript full stack engineer.
+Dedicating to be a Full Stack MERN Developer
 
 I will share some interesting infomation I build or find, including:
 

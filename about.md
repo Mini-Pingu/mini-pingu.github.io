@@ -15,14 +15,14 @@ Dive in web development industry and information technology more than six years.
 2. problem solver
 3. independent employee with high attention to detail <br /><br />
 
-Interested in the entire full stack spectrum and working on ambitious projects with positive people.
+Interested in the entire full stack spectrum and working on ambitious projects with positive people. <br /><br />
 
 <hr />
 
 <center><strong>SKILLS & EXPERIENCE</strong></center>
 HTML, CSS, Javascript, building small and medium web apps with React, features, animations, and coding interactive layouts.
 
-I have also full-stack developer experience with Node.js, Express framework, and Mongo.
+I have also full-stack developer experience with Node.js, Express framework, and Mongo. <br /><br />
 
 <hr />
 
@@ -32,3 +32,11 @@ I have also full-stack developer experience with Node.js, Express framework, and
 2. Field staff work progress check-in system (React, Express, Mongo) <br /><br />
 
 <hr />
+
+<center><strong>CONTACT ME</strong></center>
+
+<center><div>
+{% for entry in site.data.social-media %}
+<a href="{{ entry.href }}/{{ entry.id }}" title="{{ entry.id }}" target="_blank">{{ entry.title }}</a>
+{% endfor %}
+</div></center>
