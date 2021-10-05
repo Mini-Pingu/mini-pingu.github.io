@@ -38,5 +38,6 @@ I have also full-stack developer experience with Node.js, Express framework, and
 <center><div>
 {% for entry in site.data.social-media %}
 <a href="{{ entry.href }}/{{ entry.id }}" title="{{ entry.id }}" target="_blank">{{ entry.title }}</a>
-{% endfor %}
+{% endfor %}<br />
+xxxdavidaksnesxxx-at-gmail-dot-com
 </div></center>
