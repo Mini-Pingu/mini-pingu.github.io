@@ -4,3 +4,10 @@
   status: progressing
   priority: 5
   github_link: https://github.com/Mini-Pingu/ielts_prepare.git
+
+- title: Hephaestus
+  desc: Side project
+  eta: N/A
+  status: planning
+  priority: 3
+  github_link: N/A
