@@ -12,6 +12,10 @@ layout: default
   <center><strong>{{ page.tags | join: ", " }}</strong></center>
 {%- endif -%}
 
+{%- if page.last-modified-datetime != nill -%}
+  <center><strong>{{ page.last-modified-datetime }}</strong></center>
+{%- endif -%}
+
 <br />
 
 {{ content }}
