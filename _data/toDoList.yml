@@ -11,3 +11,10 @@
   status: planning
   priority: 3
   github_link: N/A
+
+- title: catch up missing courses
+  desc: offical courses and plan
+  eta: 2021-10
+  status: planning
+  priority: 5
+  github_link: N/A
