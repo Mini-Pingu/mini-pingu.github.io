@@ -23,13 +23,15 @@ layout: default
 <br />
 
 {%- if page.related_post.size > 0 -%}
-  <strong>related posts: </strong>
+<fieldset>
+  <legend><strong>related posts: </strong></legend>
   {% for postObj in page.related_post %}
     {% assign post = postObj | split: ":" %}
     {% assign post_link = post.last %}
     {%- capture links -%}
-    [{{ post.first }}]({% link {{ post_link }} %})
+    - [{{ post.first }}]({% link {{ post_link }} %})
     {%- endcapture -%}
-    {{ links | markdownify | remove: '<p>' | remove: '</p>' }}
+    {{ links | markdownify }}
   {% endfor %}
+</fieldset>
 {%- endif -%}
