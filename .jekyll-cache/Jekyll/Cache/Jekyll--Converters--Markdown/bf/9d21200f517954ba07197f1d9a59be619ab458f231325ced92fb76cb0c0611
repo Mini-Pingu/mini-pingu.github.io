@@ -1,60 +1,65 @@
-I"6<fieldset>
-<legend>
+I"‰<fieldset>
+  <legend>
 tags
 </legend>
 
+  <div>
+    <p><strong>language</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-03 ] <a href="/ielts/2021/10/03/writing.html">writing preparation</a><br /></li>
+      <li>[ 2021-10-03 ] <a href="/ielts/2021/10/03/writing-note-1.html">writing note 1</a><br /></li>
+    </ul>
 
+  </div>
+  <p><br /></p>
 
-<div>
-  <strong>language</strong><br />
-  - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing.html">writing preparation</a><br />
-  - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing-note-1.html">writing note 1</a><br />
-  
+  <div>
+    <p><strong>personal</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-03 ] <a href="/ielts/2021/10/03/writing.html">writing preparation</a><br /></li>
+      <li>[ 2021-10-03 ] <a href="/ielts/2021/10/03/writing-note-1.html">writing note 1</a><br /></li>
+    </ul>
 
-</div><br />
+  </div>
+  <p><br /></p>
 
+  <div>
+    <p><strong>figma</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-10 ] <a href="/ui/ux/2021/10/10/figmaPart2.html">figma myself (part 2)</a><br /></li>
+      <li>[ 2021-10-09 ] <a href="/ui/ux/2021/10/09/figmaPart1.html">figma myself (part 1)</a><br /></li>
+    </ul>
 
-<div>
-  <strong>personal</strong><br />
-  - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing.html">writing preparation</a><br />
-  - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing-note-1.html">writing note 1</a><br />
-  
+  </div>
+  <p><br /></p>
 
-</div><br />
+  <div>
+    <p><strong>research</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-10 ] <a href="/ui/ux/2021/10/10/figmaPart2.html">figma myself (part 2)</a><br /></li>
+      <li>[ 2021-10-09 ] <a href="/ui/ux/2021/10/09/figmaPart1.html">figma myself (part 1)</a><br /></li>
+    </ul>
 
+  </div>
+  <p><br /></p>
 
-<div>
-  <strong>figma</strong><br />
-  - [ 2021-10-10 ] <a href="/ui/ux/2021/10/10/figmaPart2.html">figma myself (part 2)</a><br />
-  - [ 2021-10-09 ] <a href="/ui/ux/2021/10/09/figmaPart1.html">figma myself (part 1)</a><br />
-  
+  <div>
+    <p><strong>computer</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-10 ] <a href="/computer/2021/10/10/missCourses.html">missing knowledge</a><br /></li>
+    </ul>
 
-</div><br />
+  </div>
+  <p><br /></p>
 
+  <div>
+    <p><strong>academic</strong><br /></p>
+    <ul>
+      <li>[ 2021-10-10 ] <a href="/computer/2021/10/10/missCourses.html">missing knowledge</a><br /></li>
+    </ul>
 
-<div>
-  <strong>research</strong><br />
-  - [ 2021-10-10 ] <a href="/ui/ux/2021/10/10/figmaPart2.html">figma myself (part 2)</a><br />
-  - [ 2021-10-09 ] <a href="/ui/ux/2021/10/09/figmaPart1.html">figma myself (part 1)</a><br />
-  
-
-</div><br />
-
-
-<div>
-  <strong>computer</strong><br />
-  - [ 2021-10-10 ] <a href="/computer/2021/10/10/missCourses.html">missing knowledge</a><br />
-  
-
-</div><br />
-
-
-<div>
-  <strong>academic</strong><br />
-  - [ 2021-10-10 ] <a href="/computer/2021/10/10/missCourses.html">missing knowledge</a><br />
-  
-
-</div><br />
+  </div>
+  <p><br /></p>
 
 </fieldset>
 :ET
