@@ -1,39 +1,40 @@
-I"M<fieldset>
-  <legend>
+I"4<fieldset>
+<legend>
 categories
 </legend>
 
-  <div>
 
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;strong&gt;ielts&lt;/strong&gt;&lt;br/&gt;
-&lt;a name="ielts"&gt;&lt;/a&gt;
-- [ 2021-10-03 ] &lt;a href="/ielts/2021/10/03/writing.html"&gt;writing preparation&lt;/a&gt;&lt;br/&gt;
-- [ 2021-10-03 ] &lt;a href="/ielts/2021/10/03/writing-note-1.html"&gt;writing note 1&lt;/a&gt;&lt;br/&gt;
-</code></pre></div>    </div>
-
-  </div>
-  <p><br /></p>
 
   <div>
+    
+    <strong>ielts</strong><br />
+    <a name="ielts"></a>
+    - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing.html">writing preparation</a><br />
+    - [ 2021-10-03 ] <a href="/ielts/2021/10/03/writing-note-1.html">writing note 1</a><br />
+    
 
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;strong&gt;UI/UX&lt;/strong&gt;&lt;br/&gt;
-&lt;a name="UI/UX"&gt;&lt;/a&gt;
-- [ 2021-10-10 ] &lt;a href="/ui/ux/2021/10/10/figmaPart2.html"&gt;figma myself (part 2)&lt;/a&gt;&lt;br/&gt;
-- [ 2021-10-09 ] &lt;a href="/ui/ux/2021/10/09/figmaPart1.html"&gt;figma myself (part 1)&lt;/a&gt;&lt;br/&gt;
-</code></pre></div>    </div>
+  </div><br />
 
-  </div>
-  <p><br /></p>
 
   <div>
+    
+    <strong>UI/UX</strong><br />
+    <a name="UI/UX"></a>
+    - [ 2021-10-10 ] <a href="/ui/ux/2021/10/10/figmaPart2.html">figma myself (part 2)</a><br />
+    - [ 2021-10-09 ] <a href="/ui/ux/2021/10/09/figmaPart1.html">figma myself (part 1)</a><br />
+    
 
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;strong&gt;computer&lt;/strong&gt;&lt;br/&gt;
-&lt;a name="computer"&gt;&lt;/a&gt;
-- [ 2021-10-10 ] &lt;a href="/computer/2021/10/10/missCourses.html"&gt;missing knowledge&lt;/a&gt;&lt;br/&gt;
-</code></pre></div>    </div>
+  </div><br />
 
-  </div>
-  <p><br /></p>
+
+  <div>
+    
+    <strong>computer</strong><br />
+    <a name="computer"></a>
+    - [ 2021-10-10 ] <a href="/computer/2021/10/10/missCourses.html">missing knowledge</a><br />
+    
+
+  </div><br />
 
 </fieldset>
 :ET
