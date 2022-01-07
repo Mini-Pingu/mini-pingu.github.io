@@ -1,20 +1,6 @@
-- title: IELTS
-  desc: Notes of IELTS preparation
-  eta: 2021-12
-  status: progressing
-  priority: 5
-  github_link: https://github.com/Mini-Pingu/ielts_prepare.git
-
-- title: Hephaestus
-  desc: Side project
-  eta: N/A
-  status: planning
-  priority: 3
-  github_link: N/A
-
-- title: catch up missing courses
+- title: CS courses
   desc: offical courses and plan
   eta: 2021-10
   status: planning
   priority: 5
-  github_link: N/A
+  link: N/A

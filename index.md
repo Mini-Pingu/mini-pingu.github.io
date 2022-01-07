@@ -4,19 +4,14 @@ layout: home
 permalink: /
 ---
 
-<center><strong>Mini-Pingu's Playground</strong></center>
+<center><strong>Mini-Pingu's Headquarters</strong></center>
 
 <br />
 
-Hi, this is Mini-Pingu speaking.
+Hi, this is Mini-Pingu. Just another mediocre software developer you know, focusing on web development currently. I will share information weekly, mostly are:
 
-Dedicating to be a Full Stack MERN Developer
+- projects I am working on or interested,
+- anything about my daily,
+  <br /> <br />
 
-I will share some interesting infomation I build or find (mostly post weekly), including:
-
-1. projects I am working on,
-2. latest fascinating technology I discover,
-3. anything happened in my daily original life,
-4. etc. <br/><br/>
-
-<center><strong>I love computer, only.</strong></center>
+<center><strong>I love computer, and 2022 already</strong></center>
