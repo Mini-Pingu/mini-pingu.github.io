@@ -3,7 +3,7 @@ title: missing knowledge
 layout: post
 tags: ["computer", "academic"]
 categories: ["computer"]
-last-modified-datetime: 2021-10-10_23:25:20
+last-modified-datetime: 2021-10-10 23:25:20
 ---
 
 The following list is subjects I want to know more before master degree:
