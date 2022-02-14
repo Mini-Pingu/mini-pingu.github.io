@@ -4,14 +4,14 @@ layout: home
 permalink: /
 ---
 
-<center><strong>Mini-Pingu's Headquarters</strong></center>
+<center><strong>mini-pingu's playground</strong></center>
+<center><strong>&</strong></center>
+<center><strong>sugar from canaan studio</strong></center>
 
 <br />
 
-Hi, this is Mini-Pingu. Just another mediocre software developer you know, focusing on web development currently. I will share information weekly, mostly are:
+hi, this is Mini-Pingu. an independent software developer.
 
-- projects I am working on or interested,
-- anything about my daily,
-  <br /> <br />
+focusing on (web\|app) (design\|development).
 
-<center><strong>I love computer, and 2022 already</strong></center>
+i will irregularly updated the status of myself and studio here.

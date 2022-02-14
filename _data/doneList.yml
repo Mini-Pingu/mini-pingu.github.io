@@ -11,3 +11,10 @@
   status: planning
   priority: 3
   link: N/A
+
+- title: CS courses
+  desc: offical courses and plan
+  eta: 2021-10
+  status: planning
+  priority: 5
+  link: /computer/2021/10/10/missCourses.html

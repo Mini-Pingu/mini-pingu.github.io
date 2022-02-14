@@ -1,6 +1,13 @@
-- title: CS courses
-  desc: offical courses and plan
-  eta: 2021-10
-  status: planning
-  priority: 5
-  link: /computer/2021/10/10/missCourses.html
+- title: nmt & seq2seq
+  desc: get familiar with the history and basic concepts of nmt and seq2seq models
+  eta: 2022-08
+  status: progressing
+  priority: 5+
+  link: https://arxiv.org/pdf/1703.01619.pdf
+
+- title: design pattern
+  desc: studying design pattern from youtube and implement with python
+  eta: 2022-02
+  status: progressing
+  priority: 4
+  link: https://youtu.be/v9ejT8FO-7I
