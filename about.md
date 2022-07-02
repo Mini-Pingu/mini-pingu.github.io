@@ -4,37 +4,22 @@ layout: page
 permalink: /about
 ---
 
-<center><strong>mini-pingu & sugar from cannan studio</strong></center>
-<center>senior full stack MERN developer in Macau, China</center>
+<center><strong>FARM software development and rookie in data science</strong></center>
+<center>junior full stack developer in Macau</center>
 <hr />
 
 <center><strong>about me</strong></center>
-dive in web development industry and information technology more than six years.
+1. have been diving into the software development for more than seven years now. 
+2. receaching out some interesting knowledge about data science, recently.
+<br /><br />
+<hr />
 
+<center><strong>define myself</strong></center>
 1. well-organized person
 2. positive problem solver
 3. independent developer with high attention to detail <br /><br />
 
 interested in the entire full stack spectrum and working on ambitious projects. <br /><br />
-
-<hr />
-
-<center><strong>skills</strong></center>
-\- interaction
-user research / wire framing / prototyping / user testing
-
-\- design
-figma
-
-\- coding
-node.js / react / python
-
-<hr />
-
-<center><strong>studio product</strong></center>
-
-1. Order and receipt printing system (React, Express, Python)
-2. Field staff work progress check-in system (React, Express, Mongo) <br /><br />
 
 <hr />
 

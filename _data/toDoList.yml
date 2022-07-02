@@ -1,13 +1,6 @@
-- title: nmt & seq2seq
-  desc: get familiar with the history and basic concepts of nmt and seq2seq models
-  eta: 2022-08
+- title: Transformer & machine translation 
+  desc: prepare the presentation of BERT and Transformer
+  eta: 2022-07-03
   status: progressing
   priority: 5+
   link: https://arxiv.org/pdf/1703.01619.pdf
-
-- title: design pattern
-  desc: studying design pattern from youtube and implement with python
-  eta: 2022-02
-  status: progressing
-  priority: 4
-  link: https://youtu.be/v9ejT8FO-7I

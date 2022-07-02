@@ -4,14 +4,12 @@ layout: home
 permalink: /
 ---
 
-<center><strong>mini-pingu's playground</strong></center>
-<center><strong>&</strong></center>
-<center><strong>sugar from canaan studio</strong></center>
+<center><strong>mini-pingu's playground & notebook</strong></center>
 
 <br />
 
 hi, this is Mini-Pingu. an independent software developer.
 
-focusing on (web\|app) (design\|development).
+i will regularly update the progress of my FARM stack development and data science here. 
 
-i will irregularly updated the status of myself and studio here.
+if you are also interested in those domains, feel free to check it out. :D
