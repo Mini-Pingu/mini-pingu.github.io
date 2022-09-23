@@ -1,6 +1,13 @@
-- title: Start your log
-  desc: Starting your daily log 
-  eta: Forever
-  status: Progressing
+- title: Math
+  desc: discrete mathematics
+  eta: 2022-10-15
+  status: processing
   priority: 5
   link: https://mini-pingu.github.io/
+
+- title: NLP
+  desc: Speech and language processing
+  eta: 2022-10-15
+  status: processing
+  priority: 5
+  link: https://web.stanford.edu/~jurafsky/slp3/
